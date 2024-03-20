@@ -13,17 +13,17 @@ Bu proje, yapay zeka araçlarını kullanarak görsel ve metin içeriklerinin ü
    - Proje, en az bir görsel ve bir metin içeriğini yapay zeka araçları ile oluşturmalıdır.
    - Bu içeriklerin üretiminde kullanılan prompt'ların projenin klasöründe yer alması gerekmektedir.
 
-3. **Seman tik Etiketlerin Kullanılması:**
+3. **Semantik Etiketlerin Kullanılması:**
    - Web sitesinin HTML yapısında semantik etiketlerin (`<header>`, `<main>`, `<nav>`, `<section>`, `<article>`, `<aside>`, `<footer>`) kullanılması beklenmektedir.
 
 4. **Responsive Tasarım (Opsiyonel):**
    - Oluşturulan web sitesi, farklı cihaz ve ekran boyutlarına uyumlu olmalıdır.
    - Mobil, tablet ve masaüstü cihazlarda düzgün bir şekilde görüntülenebilmeli ve kullanıcı deneyimini artırmak için tasarım her boyuta optimize edilmiş olmalıdır.
 
-## Örnek Araçlar
-
+## Örnek Araçlar**
 - **Canva:** Görsel içeriklerin tasarlanması için kullanılabilir.
 - **DALL-E:** Yaratıcı görsel içeriklerin oluşturulması için bir yapay zeka modeli.
-- **Artbreeder:** Fotoğraf ve görsellerin birleştirilmesi ve manipülasyonu ile yeni sanat eserleri üretmek için kullanılabilir.
+- **Artbreeder:** Fotoğraf ve görsellerin birleştirilmesi ve manipülasyonu ile yeni sanat eserleri üretmek için 
+kullanılabilir.
 - **DeepDream:** Görsellerin halüsinasyon benzeri manipülasyonları için bir yapay zeka aracı.
-- **Bard CopyWrite ChatGPT:** Metin içeriklerinin üretilmesi için kullanılabilecek yapay zeka tabanlı araçlar.
+- **Gemini - CopyWrite - ChatGPT-4:** Metin içeriklerinin üretilmesi için kullanılabilecek yapay zeka tabanlı araçlar.
