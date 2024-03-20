@@ -1,4 +1,4 @@
-# Prompt Engineering Bootcamp Projesi
+# Aygaz A.Ş GenAI - Prompt Engineering Bootcamp Projesi
 
 Bu proje, yapay zeka araçlarını kullanarak görsel ve metin içeriklerinin üretildiği ve bu içeriklerin HTML tabanlı bir web sitesinde sergilendiği bir girişimi kapsamaktadır. Projede kullanılması önerilen araçlar arasında Canva, DALL-E, Artbreeder, DeepDream ve Bard CopyWrite ChatGPT bulunmaktadır; ancak bu araçların kullanımı zorunlu değildir. Katılımcılar, diledikleri GPT asistanlarını kullanarak bu projeyi gerçekleştirebilirler.
 
@@ -26,4 +26,4 @@ Bu proje, yapay zeka araçlarını kullanarak görsel ve metin içeriklerinin ü
 - **Artbreeder:** Fotoğraf ve görsellerin birleştirilmesi ve manipülasyonu ile yeni sanat eserleri üretmek için 
 kullanılabilir.
 - **DeepDream:** Görsellerin halüsinasyon benzeri manipülasyonları için bir yapay zeka aracı.
-- **Gemini - CopyWrite - ChatGPT-4:** Metin içeriklerinin üretilmesi için kullanılabilecek yapay zeka tabanlı araçlar.
+- **Bard CopyWrite ChatGPT:** Metin içeriklerinin üretilmesi için kullanılabilecek yapay zeka tabanlı araçlar.
