@@ -1,6 +1,6 @@
 # Aygaz GenAI Bootcamp - AI Ile Random 50 Resim / Portfolio / Galeri Web Sitesi 
 
-- **Live**: https://ai-project-sable-one.vercel.app  Refresh edildiğinde random resimler mevcut.
+- **Live**: [https://ai-project-sable-one.vercel.app ](https://aygaz-gen-ai-bootcamp-final-projesi.vercel.app) Refresh edildiğinde random resimler mevcut.
 
 
   
