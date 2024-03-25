@@ -1,0 +1,5 @@
+
+/* Zoom Efekti için CSS */
+.product-img:hover {
+    transform: scale(1.1); /* Yakınlaştırma oranı */
+    transition: transform .5s ease; /* Animasyon süresi ve tipi */

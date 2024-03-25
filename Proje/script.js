@@ -24,10 +24,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         productsContainer.innerHTML = productsToShow.map(product => `
             <div class="bg-white p-4 shadow rounded-lg">
-                <img src="${product.image}" alt="${product.name}" class="h-40 w-full object-cover">
+                <img src="${product.image}" " class="h-40 w-full object-cover">
                 <div class="mt-2">
-                    <h3 class="text-lg font-bold">${product.name}</h3>
-                    <p class="text-gray-800">${product.price}</p>
+                    <h3 class="text-lg font-bold"></h3>
+                    <p class="text-gray-800"></p>
                 </div>
             </div>
         `).join('');
@@ -51,6 +51,5 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         displayProducts();
     };
-
     fetchProducts();
 });
