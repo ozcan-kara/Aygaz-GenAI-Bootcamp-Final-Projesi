@@ -3,22 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>E-Ticaret Sitesi</title>
-    <link rel="stylesheet" href="style.css">
+    <title>E-Commerce Site</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body>
-    <header>
-        <h1>Ürünlerimiz</h1>
-        <nav>
-            <ul>
-                <li><a href="index.html">Ana Sayfa</a></li>
-                <li><a href="cart.html">Sepetim</a></li>
-            </ul>
+<body class="bg-gray-100">
+    <header class="flex justify-between items-center p-4 bg-white shadow-md">
+        <div class="logo">
+            <img src="C:\Users\ozcan\OneDrive\Masaüstü\Aygaz-GenAI-Bootcamp-Final-Projesi\Proje\img\DALL·E 2024-03-25 15.06.46 - Create a random logo for a modern and minimalist e-commerce website. The logo should be simple yet memorable, suitable for use in the top left corner .webp" alt="E-Commerce Logo" class="h-10">
+        </div>
+        <div class="search-bar">
+            <input type="search" placeholder="Search..." class="p-2 border rounded">
+        </div>
+        <nav class="user-menu flex gap-4">
+            <a href="#login" class="hover:text-blue-500">Login</a>
+            <a href="#my-account" class="hover:text-blue-500">My Account</a>
+            <a href="#favorites" class="hover:text-blue-500">Favorites</a>
+            <a href="#my-cart" class="hover:text-blue-500">My Cart</a>
         </nav>
     </header>
-    <main id="product-list">
-        <!-- JavaScript ile ürünler buraya eklenecek -->
+    <main class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 p-4">
+        <!-- Dynamic Product Items will be inserted here by JavaScript -->
     </main>
+    <footer class="pagination flex justify-center p-4">
+        <button class="prev bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-l" onclick="changePage('prev')">Previous</button>
+        <button class="next bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-r" onclick="changePage('next')">Next</button>
+    </footer>
     <script src="script.js"></script>
 </body>
 </html>
