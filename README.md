@@ -1,6 +1,8 @@
 # Aygaz GenAI Bootcamp - AI Ile Random 50 Resim / Portfolio / Galeri Web Sitesi 
 
 - **Live**: https://ai-project-sable-one.vercel.app  Refresh edildiğinde random resimler mevcut.
+
+
   
 ## Proje Hakkında
 Bu proje, Aygaz GenAI Bootcamp'in "Prompt Mühendisliğine Giriş" bölümünde geliştirilmiştir. Amacımız, yapay zeka araçları kullanarak üretilen görsel ve metin içeriklerini bir HTML tabanlı web sitesinde sergileyerek, bu teknolojilerin yaratıcı potansiyelini keşfetmek ve etkileyici bir kullanıcı deneyimi sunmaktır.
@@ -14,6 +16,7 @@ Projede, içerik oluşturma sürecinde çeşitli yapay zeka araçlarından yarar
 - **Artbreeder**: Fotoğraf ve görsellerin birleştirilmesi ve manipülasyonu.
 - **DeepDream**: Görseller üzerinde halüsinasyon benzeri efektler yaratma.
 - **Bard, CopyWrite, ChatGPT**: Metin içeriklerin üretimi.
+- ** Grimoire - Consensus GPTs
 - 
 Not: Bu araçların kullanımı projede esneklik sağlamak amacıyla önerilmiştir; katılımcılar, tercihlerine göre farklı GPT asistanlarını kullanabilirler.
 
